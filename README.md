@@ -1,2 +1,2 @@
 # hapimongovue
-https://gitlab.com/amarouche_ouahab/
+https://gitlab.com/amarouche_ouahab/hapimongovue
